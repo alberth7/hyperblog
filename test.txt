@@ -1,5 +1,4 @@
 hola este es mi primer curso de Github.
 today is Friday.
 
-ahora estamos haciendo HTML
-y css.	
+manhana ahoremos mas cosas
