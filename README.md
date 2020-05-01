@@ -1,4 +1,5 @@
 # hyperblog
+* creado por el super TEAM
 Un  blog super para el curso de Platzi
 git status
 git add
