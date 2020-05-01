@@ -1,6 +1,10 @@
 # hyperblog
+
 * creado por el super TEAM
+* Incluye ejemplos en Windows, Linux y Mac
 Un  blog super para el curso de Platzi
+
+
 git status
 git add
 git commit -m 
